@@ -1,0 +1,14 @@
+h1{
+    color: rgb(19, 19, 231);
+    border: rgb(255, 0, 51);
+    border:double
+}
+*{
+    font-size: x-large;
+}
+.middle{
+    color: rgb(165, 42, 42);
+    display: flex;
+    flex-direction: column;
+    
+}
